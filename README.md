@@ -5,10 +5,10 @@ Ond estamos desenvolvemos um aplicativo de metas (sem nome ainda)
 
 # Participantes 
 
-##Annielle Crispim e Medeiros. Matrícula: 20190137219
-##Jean Carlos Ferreira da Silva Filho. Matrícula: 20190088796
-##João Heitor Lopes da Silva. Matrícula: 20190086610 
-##Vinicius Lins de Vasconcelos. Matrícula: 20190092037 
+##Annielle Crispim e Medeiros. 
+##Jean Carlos Ferreira da Silva Filho. 
+##João Heitor Lopes da Silva. 
+##Vinicius Lins de Vasconcelos. 
 
 # Projeto em Andamento.... :)
 
