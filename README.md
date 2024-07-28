@@ -3,6 +3,10 @@
 Projeto de Engenharia de Software minitrado pela Professora Juliana Saraiva da UFPB. 
 Ond estamos desenvolvemos um aplicativo de metas (sem nome ainda)
 
+# O que foi desenvolvido.... 
+
+(vou detalhar depois)
+
 # Participantes 
 
 ##Annielle Crispim e Medeiros. 
@@ -10,5 +14,5 @@ Ond estamos desenvolvemos um aplicativo de metas (sem nome ainda)
 ##João Heitor Lopes da Silva. 
 ##Vinicius Lins de Vasconcelos. 
 
-# Projeto em Andamento.... :)
+# Projeto Concluído.... :)
 
